@@ -1,3 +1,13 @@
+**Diagrama dos casos de Uso**
+
+![DIAGRAMA DOS CASOS DE USO](https://github.com/ProjetoIntegrador2024/Projeto/assets/150821125/6e22b70c-6904-4b0d-b067-8a0a6f23131b)
+
+
+**Diagrama de Linguagem Unificada de Modelagem**
+
+![Diagrama de Classe](https://github.com/ProjetoIntegrador2024/Projeto/assets/150821125/0b93e7a5-8149-4e45-bb8d-2178c49b8832)
+
+
 **Prototipagem**
 
 Nesta parte apresentaremos protótipo do site, ele visa fornecer uma representação visual da estrutura e design planejados, incluindo os seguintes aspectos:
