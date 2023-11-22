@@ -152,12 +152,12 @@ Tela consulta status pedidos- Essa tela permite que o diretor(a) possa pesquisar
 ![Tela consulta status pedidos](https://github.com/ProjetoIntegrador2024/Projeto/assets/150821125/8ba31d40-2232-4544-834c-623ea59a0ba7)
 
 
-Alunos:
-Edilson Santana Embiruçu Junior
-Izaias Cordeiro Neri
-Marcelo Henrique Vargas
-Ney Victor de Menezes Pinto
-Pâmela Andressa Ramborger dos Anjos
-Suelen dos Santos Cabral
+Alunos:<br/>
+Edilson Santana Embiruçu Junior;<br/>
+Izaias Cordeiro Neri;<br/>
+Marcelo Henrique Vargas;<br/>
+Ney Victor de Menezes Pinto;<br/>
+Pâmela Andressa Ramborger dos Anjos;<br/>
+Suelen dos Santos Cabral;<br/>
 
 ##
