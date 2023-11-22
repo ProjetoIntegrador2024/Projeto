@@ -1,3 +1,12 @@
+
+<h1 align="center"> Projeto de Cadastro Escolar</h1>
+
+<p align="center">
+Projeto como parte da disciplina Projeto Integrador - SENAC SP <br/>
+</p>
+
+</br>
+
 **Diagrama dos casos de Uso**
 
 ![DIAGRAMA DOS CASOS DE USO](https://github.com/ProjetoIntegrador2024/Projeto/assets/150821125/6e22b70c-6904-4b0d-b067-8a0a6f23131b)
@@ -141,3 +150,5 @@ Tela de consulta de pedido urgente- O usuário poderá verificar o histórico de
 Tela consulta status pedidos- Essa tela permite que o diretor(a) possa pesquisar o status do pedido. Ele deverá clicar em cima do número do pedido, onde aparecerá a data, os itens solicitados, o total da fatura, qual fornecedor atendeu ao pedido e seu status e por último a ação recomendada.
 
 ![Tela consulta status pedidos](https://github.com/ProjetoIntegrador2024/Projeto/assets/150821125/8ba31d40-2232-4544-834c-623ea59a0ba7)
+
+##
