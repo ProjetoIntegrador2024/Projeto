@@ -7,17 +7,17 @@ Projeto como parte da disciplina Projeto Integrador - SENAC SP <br/>
 
 </br>
 
-**Diagrama dos casos de Uso**
+<h2>Diagrama dos casos de Uso</h2>
 
 ![DIAGRAMA DOS CASOS DE USO](https://github.com/ProjetoIntegrador2024/Projeto/assets/150821125/6e22b70c-6904-4b0d-b067-8a0a6f23131b)
 
 
-**Diagrama de Linguagem Unificada de Modelagem**
+<h2>Diagrama de Linguagem Unificada de Modelagem</h2>
 
 ![Diagrama de Classe](https://github.com/ProjetoIntegrador2024/Projeto/assets/150821125/0b93e7a5-8149-4e45-bb8d-2178c49b8832)
 
 
-**Prototipagem**
+<h2>Prototipagem</h2>
 
 Nesta parte apresentaremos protótipo do site, ele visa fornecer uma representação visual da estrutura e design planejados, incluindo os seguintes aspectos:
 
@@ -25,7 +25,7 @@ Páginas Principais: Listagem das páginas principais do site e sua finalidade.
 Wireframes: Esboços das páginas mostrando a disposição dos elementos.
 Descrição de Funcionalidades: Breve explicação das funcionalidades previstas em cada página.
 
-**Telas para uso geral**
+<h3>Telas para uso geral</h3>
 
 Tela Login- Para que o usuário possa ter acesso ao sistema.
 
@@ -53,7 +53,7 @@ Tela de confirmação de cadastro de senha- Serve para que o usuário tome conhe
 
 
 
-**Telas de uso do corpo discente**
+<h3>Telas de uso do corpo discente</h3>
 
 Tela Olá Aluno O aluno ao logar no sistema será direcionado para a tela de boas vindas
 
@@ -77,7 +77,7 @@ Tela Histórico de Atividades- Tela que contém as atividades que já foram entr
 
 
 
-**Telas para uso do corpo docente**
+<h3>Telas para uso do corpo docente</h3>
 
 Tela de boas vindas professor- O professor ao fazer o log in no sistema será conduzido à tela de boas vindas que lhe dará as opções de cadastrar uma atividade, de editar uma atividade, de acompanhar as atividades feitas pelos alunos ou cancelar sua ação de prosseguir (essa opção faz o log off do professor)
 
@@ -101,7 +101,7 @@ Tela desempenho dos discentes- Caso o professor tenha clicado no botão acompanh
 
 
 
-**Telas para uso dos fornecedores**
+<h3>Telas para uso dos fornecedores</h3>
 
 Tela de boas, vindas ao fornecedor- Após o Fornecedor fazer o log in no sistema será direcionado para a tela de boas vindas.
 
@@ -125,7 +125,7 @@ Tela histórico de pedidos (fornecedor)- Tela onde é possível consultar o hist
 
 
 
-**Telas para uso da diretoria**
+<h3>Telas para uso da diretoria</h3>
 
 Tela de Boas-Vindas área Diretor(a)- Após o diretor(a) fazer log in no sistema, ele será direcionado a tela de Boas-Vindas. 
 
